@@ -4,4 +4,4 @@ This repo is a minimal example of server-rendering Lit web-components without an
 
 See `client💻.js` for the UI components that run isomorphically on the server and client.
 
-See `server🌏.js` for the server code that handles SSR (line 25).
+See `main🌏.js` for the server code that handles SSR (line 25).
